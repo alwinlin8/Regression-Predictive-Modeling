@@ -1,3 +1,4 @@
+# Principal Component Analysis
 setwd("/Users/alwinlin/Desktop/DSC 382 Regression")
 # Read data
 data <- read.csv(file = 'HW5_data.csv', header = TRUE)
